@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="add_deck">+</string>
+    <string name="deck_list">Decks</string>
+    <string name="add_card">+</string>
+    <string name="search_bar">Type hero</string>
+    <string name="test">TESTE</string>
+</resources>
